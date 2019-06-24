@@ -1,1 +1,1 @@
-C++ big integer lib with division on O(N*logN)
+C++ big integer lib with fast division O(N*M)
